@@ -1,16 +1,17 @@
-## Hi there 👋
+##Hello There!
 
-<!--
-**rafa16w34/rafa16w34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+export const themes = {
+ shadow_blue: {
+    title_color: "00779A",
+    text_color: "444",
+    icon_color: "004450",
+    border_color: "004490",
+    bg_color: "ffffff00",
+  }
+}
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa16w34)](https://github.com/rafa16w34/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Estudante de Engenharia de Computação no CEFET-MG
+》🏳 • 🪐 • 💀 • 😇《
