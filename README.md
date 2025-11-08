@@ -7,19 +7,22 @@
 
 <br>
 
+* Linguagens:
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.lua.org/docs.html" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://manual.gamemaker.io/monthly/en/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://devdocs.io/c/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://devdocs.io/cpp/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.oracle.com/en/java/" target="_blank"><img height="60" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/048/332/150/small_2x/java-programming-language-java-logo-free-png.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.python.org/3/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20250701090410"></a>
+</div>
+
+<br>
+
 * Redes Sociais:
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/rafa_16.dev/" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Instagram_logo.png"></a>
 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/rafael-alves-faria-0a4028359/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/m_rounded/512/FFFFFF/linkedin.png"></a>
 </div>
+
+
 <br>
 
-* Linguagens:
-<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.lua.org/docs.html" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"></a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://manual.gamemaker.io/monthly/en/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png"></a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://devdocs.io/c/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"></a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://devdocs.io/cpp/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://docs.oracle.com/en/java/" target="_blank"><img height="60" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/048/332/150/small_2x/java-programming-language-java-logo-free-png.png"></a>&nbsp;&nbsp; • &nbsp;&nbsp;<a href="https://docs.python.org/3/" target="_blank"><img height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20250701090410"></a>
-
-
-</div>
 
 ## 💫I hope you have a good job and enjoy the stars!✨
 
