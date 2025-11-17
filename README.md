@@ -12,19 +12,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 
 --><a href="https://github.com/rafa16w34?tab=repositories" target="_blank"><img src="https://skillicons.dev/icons?i=lua,gamemakerstudio,js,html,css,c,cpp,java,python,vscode,idea,windows,mint&theme=dark" alt="Habilidades" />
 
-<br>
-
-* Redes Sociais:
-<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
-Intagram:
---><a href="https://www.instagram.com/rafa_16.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Habilidades" />&nbsp;&nbsp;<!--
-Linkedin:
---><a href="https://www.linkedin.com/in/rafael-alves-faria-0a4028359/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Habilidades" />
-</div>
-
-
-<br>
 
 
 ## 💫I hope you have a good job and enjoy the stars!✨
