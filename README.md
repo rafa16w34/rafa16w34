@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 
 --><a href="https://github.com/rafa16w34?tab=repositories" target="_blank"><img src="https://skillicons.dev/icons?i=lua,gamemakerstudio,js,html,css,c,cpp,java,python,vscode,idea,windows,mint&theme=dark" alt="Habilidades" />
 
-* Vídeo sobre meu github:
+* Vídeo sobre meu Github:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- -->[![Meu Vídeo](https://img.youtube.com/vi/AgI34zWz3q4/mqdefault.jpg)](https://www.youtube.com/watch?v=AgI34zWz3q4)
 
