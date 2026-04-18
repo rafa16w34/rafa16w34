@@ -10,7 +10,9 @@
 * Habilidades:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 
---><a href="https://github.com/rafa16w34?tab=repositories" target="_blank"><img src="https://skillicons.dev/icons?i=lua,gamemakerstudio,js,html,css,c,cpp,java,python,vscode,idea,windows,mint&theme=dark" alt="Habilidades" />
+--><a href="https://github.com/rafa16w34?tab=repositories" target="_blank"><img src="https://skillicons.dev/icons?i=lua,gamemakerstudio,js,html,css,c,cpp,java,python,cs,vscode,idea,unity,windows,mint&perline=16&theme=dark" alt="Habilidades" />
+
+
 
 * Vídeo sobre meu Github:
   
