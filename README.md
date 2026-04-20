@@ -21,10 +21,5 @@
 
 ## 💫I hope you have a good job and enjoy the stars!✨
 
-<!-- Tabela das Linguagens
-Tabela do perfil:
-<a href="https://github.com/rafa16w34" target="_blank">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa16w34&show_icons=true&theme=holi)
-Espaçamento:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Tabela da linguagens:
-<a href="https://github.com/rafa16w34?tab=repositories" target="_blank">![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa16w34&layout=compact&theme=holi)-->
+
+<a href="https://github.com/rafa16w34" target="_blank">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa16w34&show_icons=true&theme=holi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/rafa16w34?tab=repositories" target="_blank">![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa16w34&layout=compact&theme=holi)
